@@ -1,4 +1,4 @@
-export const API_BASE = '/api'
+export const API_BASE = 'sataabaiapp-production.up.railway.app'
 
 export interface Document {
   document_id: string
