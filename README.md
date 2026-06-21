@@ -188,8 +188,8 @@ AWS region (default: us-east-1)
 Author
 Bashir Usman
 AI Cloud Technology Specialist
-15+ years experience in AI/Cloud transformation
-AWS · Azure · GCP · MLOps · LLMOps · RAG
+4+ years experience in AI/Cloud transformation
+AWS · Azure · MLOps · LLMOps · RAG
 
 License
 MIT
