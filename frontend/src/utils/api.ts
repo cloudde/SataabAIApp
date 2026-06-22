@@ -1,4 +1,4 @@
-export const API_BASE = '/app'
+export const API_BASE = 'https://sataabaiapp.onrender.com'
 
 export interface Document {
   document_id: string
