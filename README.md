@@ -28,7 +28,7 @@ platform. Upload documents, chat with AI grounded in your content,
 and view real-time sentiment and readability analytics.
 
 ## Live Demo
-> Add OpenAI credits and deploy to get a live link here
+> 🔗 [SataabAIApp Live](https://sataabaiapp.vercel.app)
 
 ## Screenshots
 > Add screenshots of the app here after running it locally
