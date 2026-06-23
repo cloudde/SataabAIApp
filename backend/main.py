@@ -24,6 +24,7 @@ app.add_middleware(
         "http://localhost:5173",
         "http://localhost:3000",
         "https://sataabaiapp.vercel.app",
+        "https://sataab-ai-app.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
